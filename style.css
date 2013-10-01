@@ -1,0 +1,24 @@
+html{background-color:#344152;}	
+ul{color:white;}
+table{color:white;}
+
+p{background-color:#50A6C2;}
+
+ul{border:4px double white;}
+h1{color: white;}
+img{
+	border-top: 12px double white;
+	border-bottom: 6px solid white;
+	border-left:6px solid white;
+	border-right: 6px solid white;
+	margin-left:1000px;
+	padding:1px;}
+	
+#heading{padding:20px;}
+.cooper{background-color:#F0F8FF;}	
+.cooper{border:8px solid #4372AA;}
+.cooper{color:#00688B;}
+a{color:white;}
+
+.container{background-color:#7EB6FF;
+		   height:20px;}
